@@ -1,0 +1,14 @@
+/Users/allora/Documents/Personal/RegistrationAPI/RegistrationAPI/RegistrationAPI/bin/Debug/netcoreapp2.1/RegistrationAPI.deps.json
+/Users/allora/Documents/Personal/RegistrationAPI/RegistrationAPI/RegistrationAPI/bin/Debug/netcoreapp2.1/RegistrationAPI.runtimeconfig.json
+/Users/allora/Documents/Personal/RegistrationAPI/RegistrationAPI/RegistrationAPI/bin/Debug/netcoreapp2.1/RegistrationAPI.runtimeconfig.dev.json
+/Users/allora/Documents/Personal/RegistrationAPI/RegistrationAPI/RegistrationAPI/bin/Debug/netcoreapp2.1/RegistrationAPI.dll
+/Users/allora/Documents/Personal/RegistrationAPI/RegistrationAPI/RegistrationAPI/bin/Debug/netcoreapp2.1/RegistrationAPI.pdb
+/Users/allora/Documents/Personal/RegistrationAPI/RegistrationAPI/RegistrationAPI/obj/Debug/netcoreapp2.1/RegistrationAPI.csprojAssemblyReference.cache
+/Users/allora/Documents/Personal/RegistrationAPI/RegistrationAPI/RegistrationAPI/obj/Debug/netcoreapp2.1/RegistrationAPI.csproj.CoreCompileInputs.cache
+/Users/allora/Documents/Personal/RegistrationAPI/RegistrationAPI/RegistrationAPI/obj/Debug/netcoreapp2.1/RegistrationAPI.RazorAssemblyInfo.cache
+/Users/allora/Documents/Personal/RegistrationAPI/RegistrationAPI/RegistrationAPI/obj/Debug/netcoreapp2.1/RegistrationAPI.RazorAssemblyInfo.cs
+/Users/allora/Documents/Personal/RegistrationAPI/RegistrationAPI/RegistrationAPI/obj/Debug/netcoreapp2.1/RegistrationAPI.AssemblyInfoInputs.cache
+/Users/allora/Documents/Personal/RegistrationAPI/RegistrationAPI/RegistrationAPI/obj/Debug/netcoreapp2.1/RegistrationAPI.AssemblyInfo.cs
+/Users/allora/Documents/Personal/RegistrationAPI/RegistrationAPI/RegistrationAPI/obj/Debug/netcoreapp2.1/RegistrationAPI.RazorTargetAssemblyInfo.cache
+/Users/allora/Documents/Personal/RegistrationAPI/RegistrationAPI/RegistrationAPI/obj/Debug/netcoreapp2.1/RegistrationAPI.dll
+/Users/allora/Documents/Personal/RegistrationAPI/RegistrationAPI/RegistrationAPI/obj/Debug/netcoreapp2.1/RegistrationAPI.pdb

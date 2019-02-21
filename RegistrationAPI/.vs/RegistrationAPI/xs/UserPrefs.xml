@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{30F70464-5E29-4424-9275-D389011C502A}|Default">
+  <MonoDevelop.Ide.ItemProperties.RegistrationAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RegistrationAPI/Controllers/PointOfInterestController.cs">
+    <Files>
+      <File FileName="RegistrationAPI/Program.cs" Line="17" Column="1" />
+      <File FileName="RegistrationAPI/Startup.cs" Line="24" Column="1" />
+      <File FileName="RegistrationAPI/appsettings.json" Line="1" Column="1" />
+      <File FileName="RegistrationAPI/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="RegistrationAPI/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="RegistrationAPI/Controllers/CitiesController.cs" Line="16" Column="52" />
+      <File FileName="RegistrationAPI/Models/Cities.cs" Line="4" Column="33" />
+      <File FileName="RegistrationAPI/CitiesDataStore.cs" Line="82" Column="22" />
+      <File FileName="RegistrationAPI/Models/PointOfInterests.cs" Line="29" Column="13" />
+      <File FileName="RegistrationAPI/Controllers/PointOfInterestController.cs" Line="33" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
